@@ -7,5 +7,3 @@ let even = function(el) {
 function some(arr, cond) {
   return arr.some(even);
 }
-
-module.exports = some;

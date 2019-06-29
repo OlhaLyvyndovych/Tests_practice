@@ -7,5 +7,3 @@ let even = function(el) {
 function every(arr, cond) {
   return arr.every(even);
 }
-
-module.exports = every;
